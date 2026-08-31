@@ -1,6 +1,6 @@
 # RollToDodge
 
-VB.NET WinForms helper for Roll to Dodge play-by-post games. Each tab is a player with name, inventory, weapons, abilities, conditions, action text, a 1–6 roll, and a modifier. Roll builds forum-ready text; Preview and EndRoll windows copy that text to the clipboard. ClickOnce publish leftovers were not imported. The ClickOnce `.pfx` is gitignored.
+VB.NET WinForms helper for Roll to Dodge play-by-post games. Each tab is a player with name, inventory, weapons, abilities, conditions, action text, a 1-6 roll, and a modifier. Roll builds forum-ready text; Preview and EndRoll windows copy that text to the clipboard. ClickOnce publish leftovers were not imported. The ClickOnce `.pfx` is gitignored.
 
 **Source last updated:** 2010-06-16  
 **Language:** VB.NET  
