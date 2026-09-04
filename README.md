@@ -17,6 +17,10 @@ VB.NET WinForms helper for Roll to Dodge play-by-post games. Each tab is a playe
 
 Open `RollToDodge.sln` in Visual Studio 2010 or later. Run the RollToDodge project.
 
+## Requirements
+
+- Visual Studio 2010, .NET Framework 4.0
+
 ## Attribution and provenance
 
 From Dave Robinson's Historical Dev archive (OneDrive folder `RollToDodge`). Assembly company/copyright are the Visual Studio Microsoft 2010 defaults.
