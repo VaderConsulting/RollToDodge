@@ -23,6 +23,8 @@ Open `RollToDodge.sln` in Visual Studio 2010 or later. Run the RollToDodge proje
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 From Dave Robinson's Historical Dev archive (OneDrive folder `RollToDodge`). Assembly company/copyright are the Visual Studio Microsoft 2010 defaults.
 
 ## License
